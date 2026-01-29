@@ -1,0 +1,16 @@
+# Node modules (Raiz e Subpastas)
+node_modules/
+server/node_modules/
+
+# IDEs
+.vscode/
+.idea/
+
+# Produção e Logs
+dist/
+*.log
+npm-debug.log*
+
+# Variáveis de ambiente
+.env
+.env.local
